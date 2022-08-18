@@ -2,7 +2,7 @@
 
 ---
 
-[Patika](https://app.patika.dev/)  [Ödev Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) [Benim Patikam](https://app.patika.dev/suna)
+[Patika](https://app.patika.dev/) | [Ödev Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) | [Benim Patikam](https://app.patika.dev/suna)
 
 ---
 
